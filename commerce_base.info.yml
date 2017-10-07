@@ -58,9 +58,10 @@ dependencies:
   - commerce_payment
   - commerce_promotion
   - commerce_tax
-  
+
   # Contrib
   - admin_toolbar
+  - admin_toolbar_tools
   - swiftmailer
   - commerce_multistore
   - color_field
